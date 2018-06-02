@@ -1,2 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-*.iml
+q2/q2.iml
+out/
+.idea/
